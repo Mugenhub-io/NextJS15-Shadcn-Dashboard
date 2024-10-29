@@ -1,6 +1,6 @@
 import { Calendar, Home, Inbox, Search, Settings } from "lucide-react"
 
-import { CollapsibleDemo } from "./collapse"
+
 
 import {
   Sidebar,
@@ -47,7 +47,7 @@ export function AppSidebar() {
   return (
     <Sidebar>
         <SidebarHeader>
-        <CollapsibleDemo />
+        
         </SidebarHeader>
       <SidebarContent>
         <SidebarGroup>
