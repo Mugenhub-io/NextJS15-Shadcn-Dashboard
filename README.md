@@ -3,8 +3,22 @@ Very Basic boilerplate for Nextjs 15 with Shadcn.
 
  ![Next15Shad](https://github.com/user-attachments/assets/48e6ea30-183e-4fcd-b9c9-ae5743efc23f)
 
+TO DO's
+ - Dashboard
+ - - Profile Page
+   -  - Edit Profile Page
+        
+   - Data Table
+   - Working Links
+    
+ - Landing Page
+ - Login/Logout Page
+ - Blog Page
+ - (Soon) Authentication
+ - (Soon) Database Integration
+ - (Soon) Add, Edit, Delete User and Blog
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
