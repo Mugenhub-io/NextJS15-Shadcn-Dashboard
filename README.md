@@ -1,7 +1,8 @@
 Very Basic boilerplate for Nextjs 15 with Shadcn.
  - Will try to update daily.
 
- - ![nextshad](https://github.com/user-attachments/assets/4aff5fa5-736c-4077-b797-a41e8587a103)
+ ![Next15Shad](https://github.com/user-attachments/assets/48e6ea30-183e-4fcd-b9c9-ae5743efc23f)
+
 
 
 
