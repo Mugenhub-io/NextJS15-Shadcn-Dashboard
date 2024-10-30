@@ -1,5 +1,5 @@
 import type { Metadata } from 'next'
- 
+import { Analytics } from "@vercel/analytics/react"
 // These styles apply to every route in the application
 import './globals.css'
  
@@ -15,7 +15,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>
+        {children}
+        <Analytics />
+      </body>
     </html>
   )
 }
