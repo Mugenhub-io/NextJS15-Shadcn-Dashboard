@@ -16,11 +16,11 @@ export default function Home() {
       <NavigationMenuItem>
           <Link href="/dashboard" legacyBehavior passHref>
             <NavigationMenuLink className={navigationMenuTriggerStyle()}>
-              Dashboard
+              <button className="outline"><p className="font-bold text-xl">Go to Dashboard</p></button>
             </NavigationMenuLink>
           </Link>
         </NavigationMenuItem>
-</NavigationMenu>
+      </NavigationMenu>
       
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
      
